@@ -1,0 +1,6 @@
+stat_mod/atk_add
+stat_mod/atk_mult
+no_action (for Delay)
+active_ability_cost_mod (for Magic Fatigue)
+no_active_ability (for Silence)
+none (for everything other than enchantments)

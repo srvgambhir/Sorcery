@@ -1,0 +1,31 @@
+1
+2
+board
+hand
+play 1 1 r
+play 2 1 r
+play 3 1 r
+board
+end
+end
+board
+hand
+play 1 1 r
+board
+play 2
+board
+end
+hand
+play 5
+board
+end
+board
+hand
+play 3
+board
+end
+hand
+play 5
+board
+end
+end
